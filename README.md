@@ -35,4 +35,6 @@ add data preprocessing or augmented methods
 
 add figure of evaluatiion
 
-(option)add some observation using maybe VLM to help completeing the diagnosis
+add ensemble function
+
+(option) add some observation using maybe VLM to help completeing the diagnosis
