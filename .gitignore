@@ -1,3 +1,5 @@
 */Testing
 */Training
 .venv/
+checkpoints/
+*/__pycache__/
