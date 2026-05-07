@@ -33,13 +33,10 @@ pip install ...
 
 (done) test more models
 
-(no time) add data preprocessing or augmented methods
-
 (will do) add figure of evaluatiion
 
 (will do) add ensemble function
 
-(option) add some observation using maybe VLM to help completeing the diagnosis
 
 ## Future Works
 
@@ -48,3 +45,5 @@ pip install ...
 2. Add data preprocessing or augmented methods
 
 3. Training data can be manage in different ways(separate, seed changing, and so on)
+
+4. Add some observation using maybe VLM to help completeing the diagnosis
