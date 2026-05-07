@@ -27,14 +27,22 @@ pip install ...
 
 ## To Do List
 
-run more sets of parameters
+(done) run more sets of parameters
 
-test more models
+(done) test more models
 
-add data preprocessing or augmented methods
+(no time) add data preprocessing or augmented methods
 
-add figure of evaluatiion
+(will do) add figure of evaluatiion
 
-add ensemble function
+(will do) add ensemble function
 
 (option) add some observation using maybe VLM to help completeing the diagnosis
+
+## Future Works
+
+1. More models and parameters to test
+
+2. Add data preprocessing or augmented methods
+
+3. Training data can be manage in different ways(separate, seed changing, and so on)
