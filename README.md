@@ -12,7 +12,7 @@ data/
 ## Setting
 
 We run venv on Python 3.12.3 with pip 24.0
-
+```
 pip install ipykernel
 
 pip install numpy
@@ -22,7 +22,7 @@ pip install torch
 pip install torchvision
 
 pip install matplotlib
-
+```
 pip install ...
 
 ## To Do List
